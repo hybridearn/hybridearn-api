@@ -1,1 +1,2 @@
-# hybridearn-api
+<<<<<<< HEAD
+# HybridEarn
